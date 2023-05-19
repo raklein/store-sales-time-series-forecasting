@@ -1,2 +1,2 @@
-# store-sales-time-series-forecasting
-Testing GPT-4's ability to generate code to forecast sales data
+# Testing GPT-4's ability to predict sales
+Experimenting with GPT-4's ability to code in R and forecast future sales in the [Kaggle store sales competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/). Prepares and merges the data, implements parallel processing, then trains Meta's Prophet model and scores .50559 (top 200 at the time of posting). I mostly let GPT-4 lead the way and debug it's own code, but ultimately had to do some heavy nudging to get a decent solution. Clone the repo, [download](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data) and unzip the data into the cloned directory, then run the script. 
